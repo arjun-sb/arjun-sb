@@ -1,5 +1,3 @@
-### Hi there 👋 I am Arjun Borkhatariya
-
 <h3 align="left">
  <abc>
   <br>Hi there 👋 I am Arjun Borkhatariya<br>
