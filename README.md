@@ -1,6 +1,11 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 <h3 align="left">
  <abc>
-  <br>Hi there 👋 I am Arjun Borkhatariya<br>
+  <br>I am Arjun Borkhatariya<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
